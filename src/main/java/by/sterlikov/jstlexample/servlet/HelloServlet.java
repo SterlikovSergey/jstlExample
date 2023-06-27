@@ -1,4 +1,4 @@
-package by.sterlikov.jstlexample;
+package by.sterlikov.jstlexample.servlet;
 
 import java.io.*;
 

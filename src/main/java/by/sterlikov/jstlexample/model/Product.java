@@ -1,2 +1,10 @@
-package by.sterlikov.jstlexample.model;public class Product {
+package by.sterlikov.jstlexample.model;
+
+import lombok.Data;
+
+@Data
+public class Product {
+    private String id; // id для монго строка
+    private String name;
+    private int price;
 }
